@@ -1,0 +1,20 @@
+{
+  "name": "huesbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "botbuilder-calling": "^3.0.1",
+    "express": "^4.15.0",
+    "restify": "^4.3.0",
+    "sync-request": "^4.0.1",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
